@@ -8,6 +8,6 @@ Individuals, companies, and other entities can become [members](https://mlcommon
 
 ## Policies, License and Code of Conduct
  - [MLCommons policies](https://mlcommons.org/policies/)
- - Public repositories license: [Apache 2.0](https://drive.google.com/file/d/1hJWVQn7CBsiJoWVt1j7C4LwwZH2-fl6k/view?usp=sharing)
- - [Code of Conduct](https://drive.google.com/file/d/17aLf-Eog4e-WSUyo8uqQgln0IgkLIYbT/view?usp=sharing)
- - [Code of Conduct FAQ](https://drive.google.com/file/d/1kfi8V_CwidryBaF0uR_cI1a1MImxL7BG/view?usp=sharing)
+ - Public repositories license: [Apache 2.0](https://mlcommons.org/policies/license)
+ - [Code of Conduct](https://mlcommons.org/policies/code-of-conduct)
+ - [Code of Conduct FAQ](https://mlcommons.org/policies/code-of-conduct-faq)
