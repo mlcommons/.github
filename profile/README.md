@@ -4,7 +4,7 @@ The mission of MLCommons™ is to make machine learning better for everyone. Tog
 
 You can visit the [MLCommons website here](https://mlcommons.org/) for more information, or head straight to our [Get Involved page](https://mlcommons.org/community/) if you want to join our [Working Groups](https://mlcommons.org/working-groups/).
 
-Individuals, companies, and other entities can become [members](https://mlcommons.org/community/) and/or [affiliates](https://mlcommons.org/community/).
+Individuals, companies, and other entities can become [members](https://mlcommons.org/community/#become-a-member) and/or [affiliates](https://mlcommons.org/community/#become-an-affiliate).
 
 ## Policies, License and Code of Conduct
  - [MLCommons policies](https://mlcommons.org/policies/)
