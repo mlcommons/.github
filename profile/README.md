@@ -1,6 +1,6 @@
 # MLCommons
 
-The mission of MLCommons™ is to make machine learning better for everyone. Together with its 50+ founding Members and Affiliates, including startups, leading companies, academics, and non-profits from around the globe, MLCommons will help grow machine learning from a research field into a mature industry through benchmarks, public datasets and best practices. MLCommons firmly believes in the power of open-source and open data. Our software projects are generally available under the Apache 2.0 license and our datasets generally use CC-BY 4.0.
+The mission of MLCommons® is to make machine learning better for everyone. Together with its 50+ founding Members and Affiliates, including startups, leading companies, academics, and non-profits from around the globe, MLCommons will help grow machine learning from a research field into a mature industry through benchmarks, public datasets and best practices. MLCommons firmly believes in the power of open-source and open data. Our software projects are generally available under the Apache 2.0 license and our datasets generally use CC-BY 4.0.
 
 You can visit the [MLCommons website here](https://mlcommons.org/) for more information, or head straight to our [Community page](https://mlcommons.org/community/) if you want to join our [Working Groups](https://mlcommons.org/working-groups/).
 
